@@ -1,0 +1,6 @@
+flet==0.22.*
+matplotlib
+numpy==1.26.4
+scipy==1.13.1
+scikit-image==0.23.2
+opencv-contrib-python == 4.10.0.84
